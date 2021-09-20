@@ -1,0 +1,29 @@
+#name{
+  font-size: 50px;
+}
+
+#image-moi{
+  float: left;
+  border: solid 3px;
+  margin-right: 50px;
+  
+}
+
+#title{
+  text-align: center;
+  font-size: 75px;
+}
+
+#langue-code{
+  border: solid 3px;
+  font-size: 25px;
+}
+
+#head{
+margin: auto;
+width:auto;
+}
+
+#LienP{
+  font-size: 20px;
+}
