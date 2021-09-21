@@ -29,9 +29,11 @@ width:auto;
 }
 
 td {
-    text-align: center;
+  text-align: center;
+  border: 1px solid color="black";
 }
 
 th {
-    text-align: center;
+  text-align: center;
+  border: 1px solid color="black";
 }
