@@ -27,3 +27,7 @@ width:auto;
 #LienP{
   font-size: 20px;
 }
+
+td {
+    text-align: center;
+}
