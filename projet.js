@@ -8,4 +8,4 @@ while (nomD<nomF){
   nomD++
   nomDe = nomDe + "-" + nomD
 }
-console.log(nomDe)
+alert(nomDe)
